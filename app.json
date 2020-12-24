@@ -5,10 +5,10 @@
     "env": {
         "UUID": {
             "description": "XRay UUID",
-            "value": "7901563d-d07c-45da-85b7-707bc3d9377f"
+            "value": "190190f5-d88c-48da-85b7-797bc3d9399f"
         }
     },
     "website": "https://www.x-potato.com",
-    "repository": "https://github.com/yxhit/Xray-Heroku",
+    "repository": "https://github.com/AU-Linsanity/Xray-Heroku",
     "stack": "container"
 }
