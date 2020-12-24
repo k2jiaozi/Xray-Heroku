@@ -45,4 +45,9 @@ addEventListener(
         )  
     }  
 )  
+### 特别感谢 ：
+
+* [bclswl0827](https://github.com/bclswl0827/v2ray-heroku)
+* [yxhit](https://github.com/yxhit)
+
 
