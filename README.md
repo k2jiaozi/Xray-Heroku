@@ -4,6 +4,7 @@
 
 用于在 Heroku 上部署 vless+websocket+tls，每次部署自动选择最新的 alpine linux 和 v2ray core 。  
 vless 性能更加优秀，占用资源更少。
+视频教程请参考工具大师的Heroku部署v2ray视频 https://www.youtube.com/watch?v=xEewUeWDNeI&t=649s
 
 **Heroku 为我们提供了免费的容器服务，我们不应该滥用它，所以本项目不宜做为长期翻墙使用。**
 
