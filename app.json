@@ -1,14 +1,14 @@
 {
-    "name": "XRay",
-    "description": "Deploy Xray on Heroku.",
-    "keywords": ["XRay"],
+    "name": "Xku",
+    "description": "Deploy xku.",
+    "keywords": ["xku"],
     "env": {
         "UUID": {
-            "description": "XRay UUID",
+            "description": "xku UUID",
             "value": "190190f5-d88c-48da-85b7-797bc3d9399f"
         }
     },
-    "website": "https://www.x-potato.com",
-    "repository": "https://github.com/AU-Linsanity/Xray-Heroku",
+    "website": "~",
+    "repository": "https://github.com/k2jiaozi/xku-l",
     "stack": "container"
 }
